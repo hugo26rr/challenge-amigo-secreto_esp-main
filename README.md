@@ -1,11 +1,8 @@
-# Amigo Secreto 🎁
-
-Este es un pequeño proyecto web donde puedes agregar nombres y sortear un "amigo secreto" de manera aleatoria.
+# Amigo Secreto 
 
 ## Características:
 - Agregar nombres a la lista.
 - Sortear un amigo secreto al azar.
-- Interfaz sencilla y fácil de usar.
 
 ## Tecnologías usadas:
 - HTML
@@ -15,8 +12,8 @@ Este es un pequeño proyecto web donde puedes agregar nombres y sortear un "amig
 ## Como usarlo:
 1. Ingresa los nombres en el campo de texto.
 2. Haz clic en "Añadir".
-3. Cuando hayas agregado todos los nombres, presiona "Sortear amigo".
-4. Se mostrará el nombre del amigo secreto.
+3. Cuando se agregre los nombres, presionar "Sortear amigo".
+4. Al final se mostrara un nombre al azar
 
 ## Instalación:
 1. Clona el repositorio:
